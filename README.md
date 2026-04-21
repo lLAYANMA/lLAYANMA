@@ -6,8 +6,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=E75480&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF69B4&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=FFB6C1&style=for-the-badge" height="25" />
 </div>
 
 ###
